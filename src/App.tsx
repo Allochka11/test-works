@@ -9,6 +9,7 @@ function App() {
         <div className='main'>
             <Container style={{display: 'flex', justifyContent: 'center'}}>
                 <Password/>
+                test
             </Container>
         </div>
     );
